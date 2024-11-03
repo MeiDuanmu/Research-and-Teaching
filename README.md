@@ -1,6 +1,6 @@
 Research Background
 
-Publications:
+#Publications:
 
 1. Linear and nonlinear parity-time-symmetric oligomers: a dynamical systems analysis  (2013)
 M Duanmu, K Li, RL Horne, PG Kevrekidis, N Whitaker
@@ -11,6 +11,10 @@ M Duanmu, N Whitaker, PG Kevrekidis, A Vainchtein, JE Rubin
 Physica D: Nonlinear Phenomena 325, 25-40
 
 
-Ph.D Thesis: <br />
+#Ph.D Thesis: <br />
+
 Modeling, analysis and numerical simulations in mathematical biology of traveling waves, turing
 instability and tumor dynamics (2016)
+
+
+# Teaching
