@@ -11,6 +11,6 @@ M Duanmu, N Whitaker, PG Kevrekidis, A Vainchtein, JE Rubin
 Physica D: Nonlinear Phenomena 325, 25-40
 
 
-Ph.D Thesis: 
+Ph.D Thesis: <br />
 Modeling, analysis and numerical simulations in mathematical biology of traveling waves, turing
 instability and tumor dynamics (2016)
