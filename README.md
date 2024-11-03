@@ -1,6 +1,6 @@
 # Research Background
 
-## Publications:
+Publications:
 
 1. Linear and nonlinear parity-time-symmetric oligomers: a dynamical systems analysis  (2013)
 M Duanmu, K Li, RL Horne, PG Kevrekidis, N Whitaker
@@ -17,8 +17,8 @@ instability and tumor dynamics (2016)
 
 
 # Teaching <br />
-2015 Spring: Math132.07 Calculus II
-2014 Fall: Math 132.5 Calculus II
-2014 Spring: Math 131.5 Calculus I
-2013 Spring: Math 132.Q Calculus II
+2015 Spring: Math132.07 Calculus II <br />
+2014 Fall: Math 132.5 Calculus II <br />
+2014 Spring: Math 131.5 Calculus I <br />
+2013 Spring: Math 132.Q Calculus II <br />
 2012 Fall: Math 132.I Calculus II
