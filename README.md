@@ -17,7 +17,7 @@ instability and tumor dynamics (2016)
 
 
 # Teaching <br />
-2015 Spring: Math132.07 Calculus II <br />
+2015 Spring: Math 132.07 Calculus II <br />
 2014 Fall: Math 132.5 Calculus II <br />
 2014 Spring: Math 131.5 Calculus I <br />
 2013 Spring: Math 132.Q Calculus II <br />
